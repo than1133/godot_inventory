@@ -1,0 +1,20 @@
+[
+	{
+		ITEM_NAME : "null",
+		ITEM_HP : 0,
+		ITEM_MP : 0,
+		ITEM_ATTACK : 0,
+		ITEM_SPEED : 0,
+		ITEM_DEFEND : 0,
+		ITEM_MONEY : 0
+	},
+	{
+		ITEM_NAME : "hoe",
+		ITEM_HP : 0,
+		ITEM_MP : 0,
+		ITEM_ATTACK : 5,
+		ITEM_SPEED : 0,
+		ITEM_DEFEND : 0,
+		ITEM_MONEY : 500
+	}
+]
